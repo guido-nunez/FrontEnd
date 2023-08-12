@@ -14,7 +14,7 @@ export const environment = {
   },
   production: false,
 
-  URL: 'http://localhost:8080/',
+  URL: 'https://frontendguido-46860.web.app',
 
 };
 
