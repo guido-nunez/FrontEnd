@@ -14,7 +14,7 @@ export const environment = {
   },
   production: false,
 
-  URL: 'https://frontendguido-46860.web.app',
+  URL: 'https://frontendguido-46860.web.app/',
 
 };
 
